@@ -1,5 +1,5 @@
-name: xyz
-description: xyz
+name: Xyz
+description: Xyz
 
 version: 1.0.0+1
 
@@ -15,6 +15,7 @@ dev_dependencies:
     sdk: flutter
   intl: ^0.16.1
   provider: ^4.1.0-dev+3
+  pedantic: ^1.9.0
 
 flutter:
 

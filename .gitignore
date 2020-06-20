@@ -1,8 +1,6 @@
 # Flutter Build
 /build/
 /gen/
-/.gradle/
-/local.properties
 /.dart_tool/
 /.flutter-plugins
 /.flutter-plugins-dependencies
@@ -10,10 +8,9 @@
 
 # Android studio
 **/.idea/workspace.xml
+**/.idea/$CACHE_FILE$
 
 # Do not ignore Android dependencies to overcome bugs in the current Android Studio import for Flutter Android files
 /.idea/libraries/Dart*
-# **/.idea/libraries/*
-# !**/.idea/libraries/KotlinJavaRuntime.xml
-**/.idea/caches
-
+/.idea/caches
+/.idea/assetWizardSettings.xml

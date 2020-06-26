@@ -33,6 +33,16 @@ Open the project in Android Studio.
 
 Enjoy building your Flutter app!
 
+## Single commit in main branch
+
+When creating a project from this template, the Git history of your project should be as clean as possible.
+Hence, the main branch contains only a single commit with the latest version at all times. 
+
+For each version of Android Studio, a separate branch holds the full commit history for that IDE version.
+
+It is not guaranteed that branches for older IDE versions will be maintained. 
+However, you may create pull requests for these versions, and the changes will be merged into the appropriate branch.
+
 ## Contributing
 
 It is always tricky to create a template that works in every environment. Please report any problem you're encountering.

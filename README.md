@@ -33,6 +33,14 @@ Open the project in Android Studio.
 
 Enjoy building your Flutter app!
 
+## Known Issues
+
+After starting Android Studio, you might be shown the following error message, which you can ignore:
+
+```
+Unsupported Modules Detected: Compilation is not supported for following modules: flutter-template. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project.
+```
+
 ## Single commit in main branch
 
 When creating a project from this template, the Git history of your project should be as clean as possible.

@@ -7,10 +7,9 @@
 /.packages
 
 # Android studio
-**/.idea/workspace.xml
-**/.idea/$CACHE_FILE$
+/.idea/workspace.xml
+/.idea/$CACHE_FILE$
 
-# Do not ignore Android dependencies to overcome bugs in the current Android Studio import for Flutter Android files
-/.idea/libraries/Dart*
+/.idea/libraries
 /.idea/caches
 /.idea/assetWizardSettings.xml

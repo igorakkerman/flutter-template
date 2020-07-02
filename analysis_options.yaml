@@ -2,8 +2,17 @@ include: package:pedantic/analysis_options.1.9.0.yaml
 
 analyzer:
   exclude: [build/**]
+
+#  enable-experiment:
+#    - non-nullable
+
   strong-mode:
-    implicit-casts: false
+    implicit-casts: true
+    implicit-dynamic: false
+
+  errors:
+    missing_enum_constant_in_switch: error
+    no_duplicate_case_values: warning
 
 linter:
   rules:

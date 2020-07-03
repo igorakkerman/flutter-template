@@ -1,0 +1,15 @@
+# Flutter Build
+/build/
+/gen/
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+
+# Android studio
+/.idea/workspace.xml
+/.idea/$CACHE_FILE$
+
+/.idea/libraries
+/.idea/caches
+/.idea/assetWizardSettings.xml

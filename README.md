@@ -1,6 +1,6 @@
 # Futter Template
 
-Template for new Flutter projects that works out of the box in latest Android Studio (Beta channel), 
+Template for new Flutter projects that works out of the box in latest Android Studio (Canary channel),
 including IDE support for native Android code and using the latest Gradle release.
 
 The goal is to start a new project as quickly and frictionless as possible.
@@ -9,7 +9,7 @@ The goal is to start a new project as quickly and frictionless as possible.
 
 - Android SDK is installed
 - Flutter SDK is installed
-- Android Studio 4.1 Beta 2 is installed
+- Android Studio 4.2 Canary 4 is installed
 
 ## Usage
 

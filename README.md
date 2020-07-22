@@ -9,7 +9,7 @@ The goal is to start a new project as quickly and frictionless as possible.
 
 - Android SDK is installed
 - Flutter SDK is installed
-- Android Studio 4.2 Canary 4 is installed
+- Android Studio 4.2 Canary 5 is installed
 
 ## Usage
 

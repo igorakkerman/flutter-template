@@ -9,7 +9,7 @@ The goal is to start a new project as quickly and frictionless as possible.
 
 - Android SDK is installed
 - Flutter SDK is installed
-- Android Studio 4.1 Beta 2 is installed
+- Android Studio 4.1 Beta 4 is installed
 
 ## Usage
 
